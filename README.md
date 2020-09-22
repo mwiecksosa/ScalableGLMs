@@ -1,4 +1,4 @@
-# ScalableGLMs
+# Project from MATH 4006 Numerical Analysis
 *Reproduction of Scalable Approximations for Generalized Linear Models by Erdogdu et al. (2019) published in JMLR 2019* 
 
 In practice, empirical risk is often minimized using an iterative stochastic optimization algorithm. However, when the number of observations grows much
