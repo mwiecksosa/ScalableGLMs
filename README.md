@@ -1,5 +1,5 @@
 # Project from MATH 4006 Numerical Analysis
-*Reproduction of Scalable Approximations for Generalized Linear Models by Erdogdu et al. (2019) published in JMLR 2019* 
+*Reproduction of Scalable Approximations for Generalized Linear Models by Erdogdu et al. (2019), which was originally published in JMLR 2019* 
 
 In practice, empirical risk is often minimized using an iterative stochastic optimization algorithm. However, when the number of observations grows much
 larger than the dimension of the feature space, these iterative algorithms become intractable. In summary.pdf, I give an overview of the Mathematical derivation and experimental results of a scalable algorithm that approximates the population risk minimizer in generalized linear problems introduced by Erdogdu et al. (2019). I discuss three main topics: 
