@@ -1,4 +1,4 @@
-# Project from MATH 4006 Numerical Analysis
+# Project from MATH 4006 Numerical Analysis at Fordham University
 *Reproduction of Scalable Approximations for Generalized Linear Models by Erdogdu et al. (2019), which was originally published in JMLR 2019* 
 
 In practice, empirical risk is often minimized using an iterative stochastic optimization algorithm. However, when the number of observations grows much
